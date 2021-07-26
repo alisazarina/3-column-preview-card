@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/alisazarina/3-column-preview-card)
-- Live Site URL: [Add live site URL here](https://alisazarina.github.io/3-column-preview-card/)
+- Solution URL: [https://github.com/alisazarina/3-column-preview-card](https://github.com/alisazarina/3-column-preview-card)
+- Live Site URL: [https://alisazarina.github.io/3-column-preview-card/](https://alisazarina.github.io/3-column-preview-card/)
 
 ## My process
 
