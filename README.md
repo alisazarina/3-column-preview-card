@@ -28,7 +28,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/alisazarina/3-column-preview-card](https://github.com/alisazarina/3-column-preview-card)
-- Live Site URL: [https://alisazarina.github.io/3-column-preview-card/](https://alisazarina.github.io/3-column-preview-card/)
+- Live Site URL - GitHub Pages: [https://alisazarina.github.io/3-column-preview-card/](https://alisazarina.github.io/3-column-preview-card/)
+- Live Site URL - Netlify: [alisazarina-3columncard.netlify.app](alisazarina-3columncard.netlify.app)
 
 ## My process
 
