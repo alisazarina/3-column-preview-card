@@ -9,9 +9,6 @@
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -30,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/alisazarina/3-column-preview-card)
-- Live Site URL: [Add live site URL here](https://alisazarina.github.io/3-column-preview-card/)
+- Solution URL: [https://github.com/alisazarina/3-column-preview-card](https://github.com/alisazarina/3-column-preview-card)
+- Live Site URL: [https://alisazarina.github.io/3-column-preview-card/](https://alisazarina.github.io/3-column-preview-card/)
 
 ## My process
 
@@ -43,7 +40,7 @@ Users should be able to:
 - Mobile-first workflow
 - Visual Studio Code
 
-### What I learned / for future reference
+### What I learned
 
 Adding fonts in the HTML code instead of manually downloading font files
 👉🏼 reference: top "link rel" code in head section
