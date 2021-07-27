@@ -1,10 +1,5 @@
 # Frontend Mentor - 3-column preview card component solution
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-) using a Mobile First workflow.
-
-## Table of contents
-
-- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -29,14 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](/3column-screenshot-mobile.png)
-![](3column-screenshot-desktop.png)
+![](/project-screenshot.png)
 
 
 ### Links
 
-- Solution URL: [https://github.com/alisazarina/3-column-preview-card](https://github.com/alisazarina/3-column-preview-card)
-- Live Site URL: [https://alisazarina.github.io/3-column-preview-card/](https://alisazarina.github.io/3-column-preview-card/)
+- Solution URL: [Add solution URL here](https://github.com/alisazarina/3-column-preview-card)
+- Live Site URL: [Add live site URL here](https://alisazarina.github.io/3-column-preview-card/)
 
 ## My process
 
@@ -89,10 +83,13 @@ Also continue to use and learn the Git environment, though I've gotten better at
 - [How to add images to README.md on GitHub?](https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-githubm)
 - [How do you correct a bad git “remote add origin” command?](https://stackoverflow.com/questions/46860918/how-do-you-correct-a-bad-git-remote-add-origin-command)
 
+*To fix Accessibility Issues:
+- [HTML <"main"> element // semantic markup](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main)
+- [Visually hidden content for accessibility](https://www.frontendmentor.io/solutions/mobile-first-html-and-vanilla-css-ZtRIqu8KQ)
+
 ## Author
 
 - Website (WIP) - [Alisa Zarina](https://alisazarina.com)
 - Github - [alisazarina](https://github.com/alisazarina)
 - Frontend Mentor - [@alisazarina](https://www.frontendmentor.io/profile/alisazarina)
 - Twitter - [@alisazrna](https://www.twitter.com/alisazrna)
-
