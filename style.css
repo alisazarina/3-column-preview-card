@@ -38,7 +38,18 @@ body {
     border-radius: 0 0 0.8rem 0.8rem;
 }
 
-h1 {
+/* --- visually hidden h1 element to rectify accessibility issues --- */
+.visually-hidden {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
+h2 {
     color: var(--very-light-gray);
     font-family: 'Big Shoulders Display', sans-serif;
     font-weight: 700;
@@ -114,32 +125,6 @@ p {
     }
 }
 
-/* 
--- EXTRA CODE REMOVED --
-@media only screen and (min-width: 768px) {
-    .container {
-        padding: 6rem;
-    }
-
-    .card {
-        padding: 4rem 5rem 4.5rem 4rem;
-    }
-
-    h2 {
-        font-size: 3rem;
-    }
-
-    p {
-        margin: 2.5rem 0 3.5rem 0;
-        font-size: 1.3rem;
-        line-height: 2.5rem;
-    }
-
-    .attribution {
-        font-size: 1.3rem;
-    }
-} */
-
 @media only screen and (min-width: 1440px) {
     .container {
         display: flex;
@@ -163,7 +148,7 @@ p {
         border-radius: 0 0.8rem 0.8rem 0;
     }
 
-    h1 {
+    h2 {
         font-size: 2.5rem;
     }
 
