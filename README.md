@@ -24,7 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](/project-screenshot.png)
+![](/3column-screenshot-mobile.png)
+![](/3column-screenshot-desktop.png)
 
 
 ### Links
